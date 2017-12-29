@@ -15,7 +15,7 @@
 1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). A pull
+Starter code is available in [`lib/challenge.js`](lib/challenge.js). Run your application from [`lib/main.js`](lib/main.js). A pull
 request is not required, but it is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
